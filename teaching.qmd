@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+---
+
+## courses taught
+
+-   course 1
+
+-   course 2
+
+```{r}
+200*300
+```
